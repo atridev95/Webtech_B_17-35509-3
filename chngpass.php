@@ -66,7 +66,7 @@
 </head>
 <body>
     <form method="post">
-     <table width="500px" border="3px" align="center" style="background:#AAB7B8;">
+     <table width="500px" border="3px" align="center" style="background:#fff;">
        <tr>            
             <td>                
                 <fieldset>
